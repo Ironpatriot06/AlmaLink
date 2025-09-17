@@ -54,7 +54,7 @@ cd almalink
 
 2. Install dependencies
 ```bash
-npm install
+pnpm install
 # or
 yarn install
 ```
@@ -67,7 +67,7 @@ NEXT_PUBLIC_SUPABASE_ANON_KEY=your_supabase_anon_key
 
 4. Run the dev server
 ```bash
-npm run dev
+pnpm run dev
 # or
 yarn dev
 ```
