@@ -70,6 +70,8 @@ NEXT_PUBLIC_SUPABASE_ANON_KEY=your_supabase_anon_key
 pnpm run dev
 # or
 yarn dev
+# or
+npm run dev
 ```
 Open http://localhost:3000
 
@@ -100,4 +102,4 @@ Contributions are welcome — open an issue first for big changes. Please follow
 
 ## 📜 License
 
-MIT © 2025 Your Nam
+MIT © 2025 RatishKapoor|Ironpatriot06
